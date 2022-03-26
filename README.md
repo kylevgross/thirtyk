@@ -1,1 +1,1 @@
-![thirtyk logo](/thirtyk_logo_smaller.png)
+![thirtyk logo](/thirtyklogo.png)
